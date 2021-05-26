@@ -1,7 +1,7 @@
- #- 👋 Hi, I’m @DhyanAraballi 😎
-- 👀 I’m interested in UI, 
-- 🌱 I’m currently learning  C++ / Python 🐍
-- 💞️ I’m looking to collaborate on UI designing and Developing
+#👋 Hi, I’m @DhyanAraballi 😎
+👀 I’m interested in UI, 
+🌱 I’m currently learning  C++ / Python 🐍
+ 💞️ I’m looking to collaborate on UI designing and Developing
 
 
 <!---
