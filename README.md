@@ -1,10 +1,9 @@
--👋 Hi, I’m @DhyanAraballi 😎
--👀 I’m interested in UI, 
--🌱 I’m currently learning  C++ / Python 🐍
--💞️ I’m looking to collaborate on UI designing and Developing
+# Hi there 👋 I am Dhyan Araballi
+## and  I am 13 years old 😏🌀
+
+- 🔭 I’m currently working on ... UI
+- ✍ I’m currently learning ... c++ / Python 🐍
+- 🤔 I’m looking for help with ...Programming
 
 
-<!---
-DhyanAraballi/DhyanAraballi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
